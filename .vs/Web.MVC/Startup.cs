@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Web.MVC.Data;
+using Web.MVC.Repositorio;
 
 namespace Web.MVC
 {
@@ -13,8 +14,9 @@ namespace Web.MVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+         
             services.AddEntityFrameworkSqlServer().AddDbContext<BancoContext>(o => o.UseSqlServer(Configuration.GetConnectionString("DataBase")));
-
+            services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

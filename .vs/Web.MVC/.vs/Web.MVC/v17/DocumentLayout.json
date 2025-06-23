@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\migrations\\20250529174412_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:migrations\\20250529174412_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\models\\contatomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:models\\contatomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\models\\contatomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:models\\contatomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\views\\contato\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:views\\contato\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|c:\\users\\lenovo\\desktop\\projetos\\.net-cadrastrodecontato\\.vs\\web.mvc\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E51177-E349-4B7C-B04C-98D6D497744B}|Web.MVC.csproj|solutionrelative:models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\IContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:14:49.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:14:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ContatoModels.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Models\\ContatoModels.cs",
               "RelativeDocumentMoniker": "Models\\ContatoModels.cs",
@@ -38,11 +80,25 @@
               "RelativeToolTip": "Models\\ContatoModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:06:41.625Z"
+              "WhenOpened": "2025-05-29T17:06:41.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:45:00.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -55,20 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250529174412_CriandoTabelaContatos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Migrations\\20250529174412_CriandoTabelaContatos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250529174412_CriandoTabelaContatos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Migrations\\20250529174412_CriandoTabelaContatos.cs",
+              "RelativeToolTip": "Migrations\\20250529174412_CriandoTabelaContatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:45:00.621Z",
+              "WhenOpened": "2025-05-29T17:44:12.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Apagar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Views\\Contato\\Apagar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Apagar.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Views\\Contato\\Apagar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Apagar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T16:26:17.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Projetos\\.net-CadrastroDeContato\\.vs\\Web.MVC\\Models\\HomeModel.cs",
               "RelativeDocumentMoniker": "Models\\HomeModel.cs",
